@@ -18,6 +18,13 @@
 		
 			<atom:link href="https://blog.fmpsp.com/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>About This Blog</title>
+				<link>https://blog.fmpsp.com/about/</link>
+				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
+				<guid>https://blog.fmpsp.com/about/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s incredibly easy to get lost nowadays. With so many things vying for my attention, I needed a place where I could stay still and take my time.&#xA;A place where I could focus on myself, and only myself.&lt;/p&gt;&#xA;&lt;p&gt;In the absence of text, this white void, every corner of the screen reflects back to&amp;hellip; me.&#xA;This is my sandbox. Here, I build and craft fragments of worlds, all mine. My own little digital home for my little digital self.&lt;/p&gt;</description>
+			</item>
+			<item>
 				<title>Poem: Gayuma</title>
 				<link>https://blog.fmpsp.com/posts/poem...-gayuma/</link>
 				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
@@ -30,13 +37,6 @@
 				<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
 				<guid>https://blog.fmpsp.com/posts/poem...-pasahero/</guid>
 				<description>&lt;h1 id=&#34;pasahero&#34;&gt;&#xA;  Pasahero&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Namumutlang damdamin&lt;br&gt;&#xA;Katawang tuyong tuyo&lt;br&gt;&#xA;Mamaya ay iisipin&lt;br&gt;&#xA;Ang ngayo&amp;rsquo;y hindi buo&lt;/p&gt;&#xA;&lt;p&gt;Orasang walang kamay&lt;br&gt;&#xA;Kapalaran hinayaan&lt;br&gt;&#xA;Sasakyang walang sakay&lt;br&gt;&#xA;Ang sarili babayaran&lt;/p&gt;&#xA;&lt;p&gt;Hinihigop na ang pawis&lt;br&gt;&#xA;&amp;ldquo;Walang bawas, walang labis&amp;rdquo;&lt;br&gt;&#xA;Ang kamay makasarili&lt;br&gt;&#xA;Pawang nawalang langis&lt;/p&gt;&#xA;&lt;p&gt;Ang hinaharap ngayon&lt;br&gt;&#xA;Talikod na panahon&lt;br&gt;&#xA;Bababa nalang sa kanto&lt;br&gt;&#xA;Ang dereyalisasyon&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>About</title>
-				<link>https://blog.fmpsp.com/about/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
-				<guid>https://blog.fmpsp.com/about/</guid>
-				<description>&lt;p&gt;Something about yourself.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
