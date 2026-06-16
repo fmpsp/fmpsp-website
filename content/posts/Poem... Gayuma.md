@@ -27,5 +27,3 @@ Ginamit ng gamit, kun'di ka man gamít
 Ginamit ang gamit, sarili'y giniit  
 Subalit ang sakít, kumapit, makulit  
 At babalik-balik, hindi makaalis
-
-![](a.jpg)

@@ -27,5 +27,3 @@ Ang hinaharap ngayon
 Talikod na panahon  
 Bababa nalang sa kanto  
 Ang dereyalisasyon
-
-![](b.jpg)
