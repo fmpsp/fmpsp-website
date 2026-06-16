@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+locale = 'en-us'
+title = 'fmpsp'
+theme = "xmin"
