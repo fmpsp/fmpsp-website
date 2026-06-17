@@ -18,7 +18,7 @@ Kapalaran hinayaan
 Sasakyang walang sakay  
 Ang sarili babayaran
 
-Hinihigop na ang pawis  
+Tagaktak na itong pawis  
 "Walang bawas, walang labis"  
 Ang kamay makasarili  
 Pawang nawalang langis
@@ -42,8 +42,8 @@ Itself, the only fee
 
 The sweat now soaking  
 "Nothing more, nothing less"  
-A hand so selfish  
-Like oil entirely spent
+The hand so selfish  
+Like oil so gone and spent
 
 What he faces now  
 The times which turned away  
