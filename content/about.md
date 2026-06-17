@@ -12,6 +12,6 @@ This is my sandbox. Here, I build and craft fragments of worlds, all mine. My ow
 I started this website so that I could motivate myself to start writing more. I think that writing is a great way to keep the mind going. Writing, for me, is quite frankly forcing myself to put into paper a perspective that is profoundly and genuinely mine.
 And so I write, and this is just the place where I put those writings.
 
-I mainly write in Filipino, but I'll probably write something in English soon.
+I mainly write in Filipino, but I'll do my best to translate what I can in English (being the lingua franca and all). Although, I'll probably write something in English soon enough.
 
 If, somehow, you find yourself here. Then, I hope you enjoy your stay (or are at least a little intrigued :D).
