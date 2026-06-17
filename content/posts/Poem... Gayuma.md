@@ -3,7 +3,7 @@ title: 'Poem: Gayuma'
 date: 2026-06-16
 tags:
 - poem
-- blog
+- filipino
 ---
 
 # Gayuma

@@ -1,9 +1,10 @@
 ---
-title: 'Poem: Pasahero'
+title: 'Poem: Pasahero/Passenger'
 date: 2026-06-04
 tags:
 - poem
-- blog
+- filipino
+- english
 ---
 
 # Pasahero
