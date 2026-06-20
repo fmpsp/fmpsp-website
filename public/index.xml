@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>index on fmpspのブログ</title>
-    <link>https://blog.fmpsp.com/</link>
-    <description>Recent content in index on fmpspのブログ</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <managingEditor>scanscuri@gmail.com (fmpsp)</managingEditor>
-    <webMaster>scanscuri@gmail.com (fmpsp)</webMaster>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.fmpsp.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About This Blog</title>
-      <link>https://blog.fmpsp.com/about/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
-      <guid>https://blog.fmpsp.com/about/</guid>
-      <description>&lt;p&gt;It&amp;rsquo;s incredibly easy to get lost nowadays. With so many things vying for my attention, I needed a place where I could stay still and take my time.&#xA;A place where I could focus on myself, and only myself.&lt;/p&gt;&#xA;&lt;p&gt;In the absence of text, this white void, every corner of the screen reflects back to&amp;hellip; me.&#xA;This is my sandbox. Here, I build and craft fragments of worlds, all mine. My own little digital home for my little digital self.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Poem: Gayuma</title>
-      <link>https://blog.fmpsp.com/posts/poem...-gayuma/</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
-      <guid>https://blog.fmpsp.com/posts/poem...-gayuma/</guid>
-      <description>&lt;h1 id=&#34;gayuma&#34;&gt;Gayuma&lt;/h1&gt;&#xA;&lt;p&gt;Hindi makaalis, ang puso ng mata&lt;br&gt;&#xA;Diretso sa bula, diretso sa bula&lt;br&gt;&#xA;Wag na magtiis, ang ulo mo&amp;rsquo;y wala&lt;br&gt;&#xA;Walang magagawa, walang magagawa&lt;/p&gt;&#xA;&lt;p&gt;Hindi salamangka, ikaw nagsimula&lt;br&gt;&#xA;Naligo sa batis, biglang wala ka na&lt;br&gt;&#xA;Sa ulap ang mata, saan ka pumunta?&lt;br&gt;&#xA;Diretso, sa nais, walang wala ka na&lt;/p&gt;&#xA;&lt;p&gt;Walang wala ka na, mula taas-baba&lt;br&gt;&#xA;Mula taas-baba, patuloy ang wala&lt;br&gt;&#xA;Sarili&amp;rsquo;y inipon, inalay sa iba&lt;br&gt;&#xA;Sarili&amp;rsquo;y nalais, napagsamantala&lt;/p&gt;&#xA;&lt;p&gt;Ginamit ng gamit, kun&amp;rsquo;di ka man gamít&lt;br&gt;&#xA;Ginamit ang gamit, sarili&amp;rsquo;y giniit&lt;br&gt;&#xA;Subalit ang sakít, kumapit, makulit&lt;br&gt;&#xA;At babalik-balik, hindi makaalis&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Poem: Pasahero/Passenger</title>
-      <link>https://blog.fmpsp.com/posts/poem...-pasahero/</link>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
-      <guid>https://blog.fmpsp.com/posts/poem...-pasahero/</guid>
-      <description>&lt;h1 id=&#34;pasahero&#34;&gt;Pasahero&lt;/h1&gt;&#xA;&lt;p&gt;Namumutlang damdamin&lt;br&gt;&#xA;Katawang tuyong tuyo&lt;br&gt;&#xA;Mamaya ay iisipin&lt;br&gt;&#xA;Ang ngayo&amp;rsquo;y hindi buo&lt;/p&gt;&#xA;&lt;p&gt;Orasang walang kamay&lt;br&gt;&#xA;Kapalaran hinayaan&lt;br&gt;&#xA;Sasakyang walang sakay&lt;br&gt;&#xA;Ang sarili babayaran&lt;/p&gt;&#xA;&lt;p&gt;Tagaktak na itong pawis&lt;br&gt;&#xA;&amp;ldquo;Walang bawas, walang labis&amp;rdquo;&lt;br&gt;&#xA;Ang kamay makasarili&lt;br&gt;&#xA;Pawang nawalang langis&lt;/p&gt;&#xA;&lt;p&gt;Ang hinaharap ngayon&lt;br&gt;&#xA;Talikod na panahon&lt;br&gt;&#xA;Bababa nalang sa kanto&lt;br&gt;&#xA;Ang dereyalisasyon&lt;/p&gt;&#xA;&lt;h1 id=&#34;passenger&#34;&gt;Passenger&lt;/h1&gt;&#xA;&lt;p&gt;Feeling weak and tired&lt;br&gt;&#xA;The body, wrung and dry&lt;br&gt;&#xA;Thinking by and by&lt;br&gt;&#xA;The now has gone awry&lt;/p&gt;&#xA;&lt;p&gt;The clock without a hand&lt;br&gt;&#xA;His fate is left to be&lt;br&gt;&#xA;A ride without a man&lt;br&gt;&#xA;Itself, the only fee&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>index on fmpspのブログ</title>
+		<link>https://blog.fmpsp.com/</link>
+		<description>Recent content in index on fmpspのブログ</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+			<managingEditor>scanscuri@gmail.com (fmpsp)</managingEditor>
+		
+		
+			<webMaster>scanscuri@gmail.com (fmpsp)</webMaster>
+		
+		
+		
+			<lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.fmpsp.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About This Blog</title>
+				<link>https://blog.fmpsp.com/about/</link>
+				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
+				<guid>https://blog.fmpsp.com/about/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s incredibly easy to get lost nowadays. With so many things vying for my attention, I needed a place where I could stay still and take my time.&#xA;A place where I could focus on myself, and only myself.&lt;/p&gt;&#xA;&lt;p&gt;In the absence of text, this white void, every corner of the screen reflects back to&amp;hellip; me.&#xA;This is my sandbox. Here, I build and craft fragments of worlds, all mine. My own little digital home for my little digital self.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Poem: Gayuma</title>
+				<link>https://blog.fmpsp.com/posts/poem...-gayuma/</link>
+				<pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
+				<guid>https://blog.fmpsp.com/posts/poem...-gayuma/</guid>
+				<description>&lt;h1 id=&#34;gayuma&#34;&gt;&#xA;  Gayuma&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Hindi makaalis, ang puso ng mata&lt;br&gt;&#xA;Diretso sa bula, hindi makawala&lt;br&gt;&#xA;Huwag na magtiis, ang ulo mo&amp;rsquo;y wala&lt;br&gt;&#xA;Sa &amp;lsquo;yong nadarama, Walang magagawa&lt;/p&gt;&#xA;&lt;p&gt;Hindi salamangka, ikaw nagsimula&lt;br&gt;&#xA;Naligo, sa batis, biglang wala ka na&lt;br&gt;&#xA;Sa ulap ang mata, saan ka pumunta?&lt;br&gt;&#xA;Diretso, sa nais, walang wala ka na&lt;/p&gt;&#xA;&lt;p&gt;Walang wala ka na, mula taas-baba&lt;br&gt;&#xA;Mula taas-baba, patuloy ang wala&lt;br&gt;&#xA;Sarili&amp;rsquo;y inipon, inalay sa iba&lt;br&gt;&#xA;Sarili&amp;rsquo;y nalais, napagsamantala&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Poem: Pasahero/Passenger</title>
+				<link>https://blog.fmpsp.com/posts/poem...-pasahero/</link>
+				<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate><author>scanscuri@gmail.com (fmpsp)</author>
+				<guid>https://blog.fmpsp.com/posts/poem...-pasahero/</guid>
+				<description>&lt;h1 id=&#34;pasahero&#34;&gt;&#xA;  Pasahero&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Namumutlang damdamin&lt;br&gt;&#xA;Katawang tuyong tuyo&lt;br&gt;&#xA;Mamaya ay iisipin&lt;br&gt;&#xA;Ang ngayo&amp;rsquo;y hindi buo&lt;/p&gt;&#xA;&lt;p&gt;Orasang walang kamay&lt;br&gt;&#xA;Kapalaran hinayaan&lt;br&gt;&#xA;Sasakyang walang sakay&lt;br&gt;&#xA;Ang sarili babayaran&lt;/p&gt;&#xA;&lt;p&gt;Tagaktak na itong pawis&lt;br&gt;&#xA;&amp;ldquo;Walang bawas, walang labis&amp;rdquo;&lt;br&gt;&#xA;Ang kamay makasarili&lt;br&gt;&#xA;Pawang nawalang langis&lt;/p&gt;&#xA;&lt;p&gt;Ang hinaharap ngayon&lt;br&gt;&#xA;Talikod na panahon&lt;br&gt;&#xA;Bababa nalang sa kanto&lt;br&gt;&#xA;Ang dereyalisasyon&lt;/p&gt;&#xA;&#xA;&#xA;&lt;h1 id=&#34;passenger&#34;&gt;&#xA;  Passenger&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Feeling weak and tired&lt;br&gt;&#xA;The body, wrung and dry&lt;br&gt;&#xA;Thinking by and by&lt;br&gt;&#xA;The now has gone awry&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

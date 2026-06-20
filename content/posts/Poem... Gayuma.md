@@ -9,12 +9,12 @@ tags:
 # Gayuma
 
 Hindi makaalis, ang puso ng mata  
-Diretso sa bula, diretso sa bula  
-Wag na magtiis, ang ulo mo'y wala  
-Walang magagawa, walang magagawa
+Diretso sa bula, hindi makawala  
+Huwag na magtiis, ang ulo mo'y wala  
+Sa 'yong nadarama, Walang magagawa
 
 Hindi salamangka, ikaw nagsimula  
-Naligo sa batis, biglang wala ka na  
+Naligo, sa batis, biglang wala ka na  
 Sa ulap ang mata, saan ka pumunta?  
 Diretso, sa nais, walang wala ka na
 
