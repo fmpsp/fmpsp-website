@@ -1,6 +1,6 @@
 baseURL = "https://blog.fmpsp.com/"
 locale = 'en-us'
-title = 'fmpspのブログ'
+title = 'Blogs: From My Personal Selection Of Perspectives'
 theme = "shibui"
  
 [params.author]
@@ -23,7 +23,7 @@ theme = "shibui"
   showlastmod = false
 
   # Social links (optional)
-  twitterHandle = "username"
+  twitterHandle = "scuriportable"
   ogImage = "/images/og-image.jpg"
 
 [markup]
@@ -54,3 +54,7 @@ theme = "shibui"
     name = "About"
     url = "/about/"
     weight = 2
+
+[services]
+  [services.disqus]
+    shortname = 'blog-fmpsp'

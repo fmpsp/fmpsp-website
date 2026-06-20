@@ -1,6 +1,7 @@
 ---
 title: "About This Blog"
 date: 2026-06-16
+comments: false
 ---
 
 It's incredibly easy to get lost nowadays. With so many things vying for my attention, I needed a place where I could stay still and take my time.
