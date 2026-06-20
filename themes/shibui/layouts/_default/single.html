@@ -30,13 +30,6 @@
      {{ end }}
    </div>
 
-  <!-- Comments block -->
-  {{ if and .Content (default true (default .Site.Params.comments
-    .Params.comments))
-  }}
-    <div class="comments">{{- partial "comments" . -}}</div>
-  {{ end }}
-
   {{ if not .IsHome }}
     <div class="terminal-nav">
       <div class="back-nav">
@@ -47,5 +40,12 @@
         {{ end }}
       </div>
     </div>
+  {{ end }}
+  
+  <!-- Comments block -->
+  {{ if and .Content (default true (default .Site.Params.comments
+    .Params.comments))
+  }}
+    <div class="comments">{{- partial "comments" . -}}</div>
   {{ end }}
 {{ end }}
